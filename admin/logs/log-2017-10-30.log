@@ -1,0 +1,4 @@
+ERROR - 2017-10-30 12:44:17 --> Severity: Parsing Error --> syntax error, unexpected '[' C:\xampp\htdocs\web\system\helpers\custom_helper.php 58
+ERROR - 2017-10-30 12:54:20 --> Severity: Parsing Error --> syntax error, unexpected '[' C:\xampp\htdocs\web\admin\models\Relationship_model.php 64
+ERROR - 2017-10-30 13:03:30 --> Severity: Parsing Error --> syntax error, unexpected '[' C:\xampp\htdocs\web\admin\views\menu_top.php 8
+ERROR - 2017-10-30 13:04:42 --> Severity: Parsing Error --> syntax error, unexpected '[' C:\xampp\htdocs\web\admin\controllers\User.php 67
