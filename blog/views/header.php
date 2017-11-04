@@ -76,10 +76,11 @@
 <!--    <p class="text-uppercase" style="font-size: 20px">Chuyên phục vụ xe tết tuyến Quảng Ngãi - Sài Gòn<br/>-->
 <!--    Bình Sơn - Quảng Ngãi <i class="fa fa-arrow-left"></i><i class="fa fa-arrow-right"></i> Sài Gòn - Tân Phú</p>-->
 <!--</div>-->
-<div class="container-fluid" style="background: #CB2134;color: #FFF;">
+<div class="container-fluid hidden-xs" style="background: #CB2134;color: #FFF;">
     <div class="row">
         <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:15px;text-align: center">
-            <p style="font-size:25px;padding-top:10px;color:#ffff00"><b>ĐẶT VÉ TẾT GỌI NGAY <i class="fa fa-arrow-right"></i> </b></p>
+            <p style="font-size:25px;padding-top:10px;color:#ffff00"><b>ĐẶT VÉ TẾT GỌI NGAY <i
+                        class="fa fa-arrow-right"></i> </b></p>
         </div>
         <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:15px;text-align: center">
             <i style="font-size: 35px;color:#ffff00" class="fa fa-phone"></i>&nbsp;
@@ -92,6 +93,28 @@
         <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:15px;text-align: center">
             <i style="font-size: 35px;color:#ffff00" class="fa fa-phone"></i>&nbsp;
             <i style="font-size: 35px;color:#ffff00">0886.77.95.95</i>
+        </div>
+    </div>
+</div>
+<div class="container-fluid hidden-sm hidden-md hidden-lg" style="background: #CB2134;color: #FFF;">
+    <div class="row">
+        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
+            <p style="font-size:15px;padding-top:10px;color:#ffff00"><b>ĐẶT VÉ TẾT GỌI NGAY <i
+                        class="fa fa-arrow-right"></i> </b></p>
+        </div>
+        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
+            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 8px">0886.62.20.20</i>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
+            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px">09.32.52.35.65</i>
+        </div>
+        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
+            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px">0886.77.95.95</i>
         </div>
     </div>
 </div>
