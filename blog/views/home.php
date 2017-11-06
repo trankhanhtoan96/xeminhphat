@@ -1,18 +1,18 @@
 <?php include APPPATH . 'views/header.php'; ?>
     <div class="container hidden-xs">
-        <h1 class="text-center" style="font-size: 30px;font-weight: bold;color:#CB2134">BẢNG GIÁ VÉ XE GIƯỜNG NẰM TẾT
+        <h1 class="text-center" style="font-size: 30px;font-weight: bold;color:#CC0000">BẢNG GIÁ VÉ XE GIƯỜNG NẰM TẾT
             MẬU TUẤT 2018</h1>
         <h1 class="text-center" style="font-size: 25px;font-weight: bold;color:#102E6A">QUẢNG NGÃI <i
                 class="fa fa-exchange"></i> SÀI GÒN</h1>
         <p style="text-decoration: underline;font-style: italic;font-weight: bold">LƯU Ý: GIÁ VÉ CAM KẾT ĐÃ BAO GỒM</p>
         <p class="text-center" style="font-weight: bold;font-size: 20px;color:#102E6A">2 BỮA ĂN CHÍNH - NƯỚC YẾN - KHĂN
             LẠNH - NƯỚC SUỐI - THUỐC SAY XE</p>
-        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CB2134">
+        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CC0000">
             <tbody>
-            <tr style="background-color: yellow;color:#CB2134;font-size: 20px">
+            <tr style="background-color: yellow;color:#CC0000;font-size: 20px">
                 <td colspan="3">AEON TÂN PHÚ - SÀI GÒN <i class="fa fa-exchange"></i> QUẢNG NGÃI - THỊ TRẤN CHÂU Ổ</td>
             </tr>
-            <tr style="background-color: #CB2134;color:yellow">
+            <tr style="background-color: #CC0000;color:yellow">
                 <td>NGÀY ĐI</td>
                 <td>GIỜ KHỞI HÀNH</td>
                 <td>GIÁ VÉ</td>
@@ -35,12 +35,12 @@
             </tbody>
         </table>
         <br/>
-        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CB2134">
+        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CC0000">
             <tbody>
-            <tr style="background-color: yellow;color:#CB2134;font-size: 20px">
+            <tr style="background-color: yellow;color:#CC0000;font-size: 20px">
                 <td colspan="3">THỊ TRẤN CHÂU Ổ - QUẢNG NGÃI <i class="fa fa-exchange"></i> SÀI GÒN - AEON TÂN PHÚ</td>
             </tr>
-            <tr style="background-color: #CB2134;color:yellow">
+            <tr style="background-color: #CC0000;color:yellow">
                 <td>NGÀY ĐI</td>
                 <td>GIỜ KHỞI HÀNH</td>
                 <td>GIÁ VÉ</td>
@@ -63,7 +63,7 @@
             </tbody>
         </table>
         <br/>
-        <h1 class="text-center" style="font-size: 30px;font-weight: bold;color:#CB2134">XE MINH PHÁT CAM KẾT PHỤC
+        <h1 class="text-center" style="font-size: 30px;font-weight: bold;color:#CC0000">XE MINH PHÁT CAM KẾT PHỤC
             VỤ</h1>
         <ol style="font-size: 20px;color:#102E6A;font-weight: bold">
             <li>ĐÚNG SỐ GIƯỜNG, SỐ GHẾ HÀNH KHÁCH ĐÃ ĐẶT MUA</li>
@@ -76,20 +76,23 @@
             <li>XE GIƯỜNG NẰM CAO CẤP - ĐỜI MỚI 2015, 2017</li>
         </ol>
     </div>
-    <div class="container hidden-sm hidden-md hidden-lg">
-        <h1 class="text-center" style="font-size: 20px;font-weight: bold;color:#CB2134">BẢNG GIÁ VÉ XE GIƯỜNG NẰM<br/>TẾT
+
+
+
+    <div class="container-fluid hidden-sm hidden-md hidden-lg">
+        <h1 class="text-center" style="font-size: 20px;font-weight: bold;color:#CC0000">BẢNG GIÁ VÉ XE GIƯỜNG NẰM<br/>TẾT
             MẬU TUẤT 2018</h1>
         <h1 class="text-center" style="font-size: 20px;font-weight: bold;color:#102E6A">QUẢNG NGÃI <i
                 class="fa fa-exchange"></i> SÀI GÒN</h1>
-        <p style="text-decoration: underline;font-style: italic;font-weight: bold;font-size: 16px">LƯU Ý: GIÁ VÉ CAM KẾT ĐÃ BAO GỒM</p>
+        <p style="text-decoration: underline;font-style: italic;font-weight: bold;font-size: 15px">LƯU Ý: GIÁ VÉ CAM KẾT ĐÃ BAO GỒM</p>
         <p class="text-center" style="font-weight: bold;font-size: 16px;color:#102E6A">2 BỮA ĂN CHÍNH - NƯỚC YẾN - KHĂN
             LẠNH - NƯỚC SUỐI - THUỐC SAY XE</p>
-        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CB2134">
+        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CC0000;font-size: 15px">
             <tbody>
-            <tr style="background-color: yellow;color:#CB2134;font-size: 16px">
+            <tr style="background-color: yellow;color:#CC0000;font-size: 15px">
                 <td colspan="3">AEON TÂN PHÚ - SÀI GÒN <i class="fa fa-exchange"></i> QUẢNG NGÃI - TT CHÂU Ổ</td>
             </tr>
-            <tr style="background-color: #CB2134;color:yellow;font-size: 16px">
+            <tr style="background-color: #CC0000;color:yellow;font-size: 15px">
                 <td>NGÀY ĐI</td>
                 <td>GIỜ KHỞI HÀNH</td>
                 <td>GIÁ VÉ</td>
@@ -112,12 +115,12 @@
             </tbody>
         </table>
         <br/>
-        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CB2134">
+        <table class="table table-bordered" style="font-weight: bold;text-align: center;color:#CC0000;font-size: 15px">
             <tbody>
-            <tr style="background-color: yellow;color:#CB2134;font-size: 16px">
+            <tr style="background-color: yellow;color:#CC0000;font-size: 15px">
                 <td colspan="3">TT CHÂU Ổ - QUẢNG NGÃI <i class="fa fa-exchange"></i> SÀI GÒN - AEON TÂN PHÚ</td>
             </tr>
-            <tr style="background-color: #CB2134;color:yellow">
+            <tr style="background-color: #CC0000;color:yellow;font-size: 15px">
                 <td>NGÀY ĐI</td>
                 <td>GIỜ KHỞI HÀNH</td>
                 <td>GIÁ VÉ</td>
@@ -140,9 +143,9 @@
             </tbody>
         </table>
         <br/>
-        <h1 class="text-center" style="font-size: 20px;font-weight: bold;color:#CB2134">XE MINH PHÁT CAM KẾT PHỤC
+        <h1 class="text-center" style="font-size: 20px;font-weight: bold;color:#CC0000">XE MINH PHÁT CAM KẾT PHỤC
             VỤ</h1>
-        <ol style="font-size: 16px;color:#102E6A;font-weight: bold">
+        <ol style="font-size: 15px;color:#000;font-weight: bold">
             <li>ĐÚNG SỐ GIƯỜNG, SỐ GHẾ HÀNH KHÁCH ĐÃ ĐẶT MUA</li>
             <li>KHỞI HÀNH VÀ ĐÓN KHÁCH ĐÚNG GIỜ HẸN</li>
             <li>BAO ĂN 2 BỮA CHÍNH - NƯỚC YẾN - KHĂN LẠNH - NƯỚC SUỐI - THUỐC SAY XE</li>

@@ -44,30 +44,31 @@
 <body>
 
 <!--menu-->
-<nav class="navbar navbar-default navbar-fixed-top" style="font-size:18px;">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="<?= site_url() ?>">
-                <img class="img-responsive navbar-brand" style="height:70px;padding:0"
-                     src="<?= $this->setting_model->get('logo') ?>"/>
-            </a>
-        </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="<?= site_url('tai-sao-chon-xe-minh-phat.html') ?>">TẠI SAO CHỌN XE MINH PHÁT</a></li>
-                <li><a href="<?= site_url('hinh-anh-xe.html') ?>">ẢNH XE MINH PHÁT</a></li>
-                <li><a href="<?= site_url('cam-nhan.html') ?>">CẢM NHẬN KH</a></li>
-                <li><a href="<?= site_url('#footer') ?>">LIÊN HỆ</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
-<div style="height: 70px;"></div>
+<!--<nav class="navbar navbar-default navbar-fixed-top" style="font-size:18px;">-->
+<!--    <div class="container">-->
+<!--        <div class="navbar-header">-->
+<!--            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">-->
+<!--                <span class="icon-bar"></span>-->
+<!--                <span class="icon-bar"></span>-->
+<!--                <span class="icon-bar"></span>-->
+<!--            </button>-->
+<!--            <a href="--><? //= site_url() ?><!--">-->
+<!--                <img class="img-responsive navbar-brand" style="height:70px;padding:0"-->
+<!--                     src="--><? //= $this->setting_model->get('logo') ?><!--"/>-->
+<!--            </a>-->
+<!--        </div>-->
+<!--        <div class="collapse navbar-collapse" id="myNavbar">-->
+<!--            <ul class="nav navbar-nav navbar-right">-->
+<!--                <li><a href="-->
+<? //= site_url('tai-sao-chon-xe-minh-phat.html') ?><!--">TẠI SAO CHỌN XE MINH PHÁT</a></li>-->
+<!--                <li><a href="--><? //= site_url('hinh-anh-xe.html') ?><!--">ẢNH XE MINH PHÁT</a></li>-->
+<!--                <li><a href="--><? //= site_url('cam-nhan.html') ?><!--">CẢM NHẬN KH</a></li>-->
+<!--                <li><a href="--><? //= site_url('#footer') ?><!--">LIÊN HỆ</a></li>-->
+<!--            </ul>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</nav>-->
+<!--<div style="height: 70px;"></div>-->
 <div class="container">
     <img style="width: 100%;" src="<?= base_url('uploads/images/banner.png') ?>"/>
 </div>
@@ -76,45 +77,46 @@
 <!--    <p class="text-uppercase" style="font-size: 20px">Chuyên phục vụ xe tết tuyến Quảng Ngãi - Sài Gòn<br/>-->
 <!--    Bình Sơn - Quảng Ngãi <i class="fa fa-arrow-left"></i><i class="fa fa-arrow-right"></i> Sài Gòn - Tân Phú</p>-->
 <!--</div>-->
-<div class="container-fluid hidden-xs" style="background: #CB2134;color: #FFF;">
+<div class="container-fluid hidden-xs" style="background: #CC0000;color: #ffff00;">
     <div class="row">
-        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:15px;text-align: center">
-            <p style="font-size:25px;padding-top:10px;color:#ffff00"><b>ĐẶT VÉ TẾT GỌI NGAY <i
+        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
+            <p style="font-size:20px;padding-top:10px"><b>ĐẶT VÉ TẾT GỌI NGAY <i
                         class="fa fa-arrow-right"></i> </b></p>
         </div>
-        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:15px;text-align: center">
-            <i style="font-size: 35px;color:#ffff00" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 35px;color:#ffff00">0886.62.20.20</i>
+        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
+            <i style="font-size: 27px;padding-top:10px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 27px;padding-top:10px">0886.62.20.20</i>
         </div>
-        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:15px;text-align: center">
-            <i style="font-size: 35px;color:#ffff00" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 35px;color:#ffff00">09.32.52.35.65</i>
+        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
+            <i style="font-size: 27px;padding-top:10px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 27px;padding-top:10px">09.32.52.35.65</i>
         </div>
-        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:15px;text-align: center">
-            <i style="font-size: 35px;color:#ffff00" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 35px;color:#ffff00">0886.77.95.95</i>
+        <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
+            <i style="font-size: 27px;padding-top:10px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 27px;padding-top:10px">0886.77.95.95</i>
         </div>
     </div>
 </div>
-<div class="container-fluid hidden-sm hidden-md hidden-lg" style="background: #CB2134;color: #FFF;">
-    <div class="row">
-        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
-            <p style="font-size:15px;padding-top:10px;color:#ffff00"><b>ĐẶT VÉ TẾT GỌI NGAY <i
-                        class="fa fa-arrow-right"></i> </b></p>
-        </div>
-        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
-            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 8px">0886.62.20.20</i>
+<div class="container-fluid hidden-sm hidden-md hidden-lg" style="background: #CC0000;color: #ffff00;">
+    <div class="row text-center">
+        <div class="col-xs-12" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold;padding-bottom: 0">
+            <p style="font-size:15px;color:#ffff00"><b>ĐẶT VÉ TẾT GỌI NGAY</b><br/>
+                <i class="fa fa-chevron-down"></i>
+            </p>
         </div>
     </div>
-    <div class="row">
-        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
-            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px">09.32.52.35.65</i>
+    <div class="row text-center">
+        <div class="col-xs-4" style="padding:1px;text-align: center">
+            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px">0886.62.20.20</i>
         </div>
-        <div class="col-xs-6" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold">
-            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 17px;color:#ffff00;padding-top:12px;padding-bottom: 10px">0886.77.95.95</i>
+        <div class="col-xs-4" style="padding:1px;text-align: center;">
+            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px">09.32.52.35.65</i>
+        </div>
+        <div class="col-xs-4" style="padding:1px;text-align: center;">
+            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
+            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px">0886.77.95.95</i>
         </div>
     </div>
 </div>
