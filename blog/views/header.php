@@ -77,7 +77,7 @@
 <!--    <p class="text-uppercase" style="font-size: 20px">Chuyên phục vụ xe tết tuyến Quảng Ngãi - Sài Gòn<br/>-->
 <!--    Bình Sơn - Quảng Ngãi <i class="fa fa-arrow-left"></i><i class="fa fa-arrow-right"></i> Sài Gòn - Tân Phú</p>-->
 <!--</div>-->
-<div class="container-fluid hidden-xs" style="background: #CC0000;color: #ffff00;">
+<div class="container-fluid hidden-xs" style="background: #FF0000;color: #ffff00;font-weight: bold">
     <div class="row">
         <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
             <p style="font-size:20px;padding-top:10px"><b>ĐẶT VÉ TẾT GỌI NGAY <i
@@ -85,38 +85,32 @@
         </div>
         <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
             <i style="font-size: 27px;padding-top:10px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 27px;padding-top:10px">0886.62.20.20</i>
+            <i style="font-size: 27px;padding-top:10px">0946.152.172</i>
         </div>
         <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
             <i style="font-size: 27px;padding-top:10px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 27px;padding-top:10px">09.32.52.35.65</i>
+            <i style="font-size: 27px;padding-top:10px">09.3252.3565</i>
         </div>
         <div class="col-sm-3" style="border-top:solid 1px #FF5568;padding:5px;text-align: center">
             <i style="font-size: 27px;padding-top:10px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 27px;padding-top:10px">0886.77.95.95</i>
+            <i style="font-size: 27px;padding-top:10px">0886.77.9595</i>
         </div>
     </div>
 </div>
-<div class="container-fluid hidden-sm hidden-md hidden-lg" style="background: #CC0000;color: #ffff00;">
+<div class="container-fluid hidden-sm hidden-md hidden-lg" style="background: #FF0000;color: #ffff00;font-weight: bold">
     <div class="row text-center">
-        <div class="col-xs-12" style="border-top:solid 1px #FF5568;padding:5px;text-align: center;font-weight: bold;padding-bottom: 0">
-            <p style="font-size:15px;color:#ffff00"><b>ĐẶT VÉ TẾT GỌI NGAY</b><br/>
-                <i class="fa fa-chevron-down"></i>
-            </p>
+        <div class="col-xs-12"
+             style="border-top:solid 1px #FF5568;text-align: center;font-weight: bold;padding-bottom: 0">
+            <b style="font-size:15px;color:#ffff00">ĐẶT VÉ TẾT GỌI NGAY</b>
         </div>
-    </div>
-    <div class="row text-center">
-        <div class="col-xs-4" style="padding:1px;text-align: center">
-            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px">0886.62.20.20</i>
+        <div class="col-xs-4">
+            <i style="font-size: 17px;color:#ffff00;padding-bottom: 8px">0946.152.172</i>
         </div>
-        <div class="col-xs-4" style="padding:1px;text-align: center;">
-            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px">09.32.52.35.65</i>
+        <div class="col-xs-4">
+            <i style="font-size: 17px;color:#ffff00;padding-bottom: 8px">09.3252.3565</i>
         </div>
-        <div class="col-xs-4" style="padding:1px;text-align: center;">
-            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px" class="fa fa-phone"></i>&nbsp;
-            <i style="font-size: 17px;color:#ffff00;padding-top:0px;padding-bottom: 8px">0886.77.95.95</i>
+        <div class="col-xs-4">
+            <i style="font-size: 17px;color:#ffff00;padding-bottom: 8px">0886.77.9595</i>
         </div>
     </div>
 </div>

@@ -1,4 +1,4 @@
-<div class="container-fluid hidden-xs" id="footer" style="background: #CC0000;color: yellow">
+<div class="container-fluid hidden-xs" id="footer" style="background: #FF0000;color: yellow">
     <div class="row">
         <div class="col-sm-5">
             <iframe
@@ -10,7 +10,7 @@
             <h1 style="font-size: 40px"><b>MINH PHÁT BÌNH SƠN</b></h1>
             <p style="font-size: 20px">PHỤC VỤ QUÝ HÀNH KHÁCH LÀ HẠNH PHÚC CỦA CHÚNG TÔI</p>
             <div class="col-XS-12">
-                <p><i class="fa fa-facebook"></i><a style="background: #CC0000;color: yellow" href="http://fb.com/xeminhphat"> FB.COM/XEMINHPHAT</a></p>
+                <p><i class="fa fa-facebook"></i><a style="background: #FF0000;color: yellow" href="http://fb.com/xeminhphat"> FB.COM/XEMINHPHAT</a></p>
                 <p style="font-size:18px"><i class="fa fa-phone"></i> 0886.62.20.20 - 09.32.52.35.65 - 0886.77.95.95</p>
                 <p><i class="fa fa-home"></i> 28A TRẦN TRIỆU LUẬT - TÂN BÌNH - HỒ CHÍ MINH</p>
             </div>
@@ -18,7 +18,7 @@
     </div>
 </div>
 
-<div class="container-fluid hidden-sm hidden-md hidden-lg" id="footer" style="background: #CC0000;color: yellow">
+<div class="container-fluid hidden-sm hidden-md hidden-lg" id="footer" style="background: #FF0000;color: yellow">
     <div class="row">
         <div class="col-sm-5">
             <iframe
@@ -26,17 +26,18 @@
                 width="100%" height="270" frameborder="0" style="border:solid 1px #000"></iframe>
         </div>
         <div class="col-sm-7 text-center">
-            <h1 style="font-size: 25px"><b>XE GIƯỜNG NẰM CAO CẤP</b></h1>
+            <h1 style="font-size: 24px"><b>XE GIƯỜNG NẰM CAO CẤP</b></h1>
             <h1 style="font-size: 30px"><b>MINH PHÁT BÌNH SƠN</b></h1>
             <p style="font-size: 16px">PHỤC VỤ QUÝ HÀNH KHÁCH LÀ HẠNH PHÚC CỦA CHÚNG TÔI</p>
             <div class="col-XS-12">
-                <p><i class="fa fa-facebook"></i><a style="background: #CC0000;color: yellow" href="http://fb.com/xeminhphat"> FB.COM/XEMINHPHAT</a></p>
+                <p><i class="fa fa-facebook"></i><a style="background: #FF0000;color: yellow" href="http://fb.com/xeminhphat"> FB.COM/XEMINHPHAT</a></p>
                 <p style="font-size:18px"><i class="fa fa-phone"></i> 0886.62.20.20 - 09.32.52.35.65 - 0886.77.95.95</p>
                 <p><i class="fa fa-home"></i> 28A TRẦN TRIỆU LUẬT - TÂN BÌNH - HỒ CHÍ MINH</p>
             </div>
         </div>
     </div>
 </div>
+<iframe scrolling="no" width="0" height="0" src="https://mp3.zing.vn/embed/song/ZW7FODDI?start=true" frameborder="0"></iframe>
 <script src="<?= base_url('vendors/AlertifyJS/alertify.min.js') ?>"></script>
 </body>
 </html>
