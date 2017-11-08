@@ -37,7 +37,9 @@
         </div>
     </div>
 </div>
-<iframe scrolling="no" width="0" height="0" src="https://mp3.zing.vn/embed/song/ZW7FODDI?start=true" frameborder="0"></iframe>
+<audio controls autoplay style="width:0;height:0">
+    <source src="<?= base_url('uploads/files/nhac2.mp3') ?>" type="audio/mpeg">
+</audio>
 <script src="<?= base_url('vendors/AlertifyJS/alertify.min.js') ?>"></script>
 </body>
 </html>

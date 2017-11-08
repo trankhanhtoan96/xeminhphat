@@ -25,7 +25,7 @@
             </tr>
             <tr>
                 <td>24 & 29 Âm Lịch</td>
-                <td>11h00 - 14h00 -  19h00</td>
+                <td>11h00 - 14h00 - 16h00 -  19h00</td>
                 <td>800.000 đồng</td>
             </tr>
             <tr>
@@ -39,7 +39,7 @@
         <table class="table table-bordered" style="text-align: center;color:#102E6A">
             <tbody>
             <tr style="background-color: #FF0000;color:yellow;font-size: 20px;font-weight: bold;">
-                <td colspan="3">BÌNH SƠN - CHÂU Ổ <i class="fa fa-exchange"></i> TÂN BÌNH - TÂN PHÚ</td>
+                <td colspan="3">CHÂU Ổ - BÌNH SƠN <i class="fa fa-exchange"></i> TÂN BÌNH - TÂN PHÚ</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td>NGÀY ĐI</td>
@@ -53,7 +53,7 @@
             </tr>
             <tr>
                 <td>10 Âm Lịch</td>
-                <td>11h00 - 14h00 -  19h00</td>
+                <td>11h00 - 14h00 - 16h00 -  19h00</td>
                 <td>800.000 đồng</td>
             </tr>
             <tr>
@@ -104,7 +104,7 @@
             </tr>
             <tr>
                 <td nowrap>24 & 29 Âm Lịch</td>
-                <td>11h00 - 14h00 -  19h00</td>
+                <td>11h00 - 14h00 - 16h00 -  19h00</td>
                 <td nowrap>800.000 đ</td>
             </tr>
             <tr>
@@ -118,7 +118,7 @@
         <table class="table table-bordered" style="text-align: center;color:#102E6A;font-size: 15px">
             <tbody>
             <tr style="background-color: #FF0000;color:yellow;font-size: 15px;font-weight: bold;">
-                <td colspan="3">BÌNH SƠN - CHÂU Ổ <i class="fa fa-exchange"></i> TÂN BÌNH - TÂN PHÚ</td>
+                <td colspan="3">CHÂU Ổ - BÌNH SƠN <i class="fa fa-exchange"></i> TÂN BÌNH - TÂN PHÚ</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td>NGÀY ĐI</td>
@@ -132,7 +132,7 @@
             </tr>
             <tr>
                 <td nowrap>10 Âm Lịch</td>
-                <td>11h00 - 14h00 -  19h00</td>
+                <td>11h00 - 14h00 - 16h00 -  19h00</td>
                 <td nowrap>800.000 đ</td>
             </tr>
             <tr>
